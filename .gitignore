@@ -1,6 +1,7 @@
 play.py
 *.xml
 *.log
+*.csv
 
 # https://github.com/github/gitignore/blob/master/Python.gitignore
 
