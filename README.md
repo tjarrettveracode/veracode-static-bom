@@ -4,6 +4,8 @@ Get a quick list of modules with findings identified by a Veracode static scan.
 
 ## Setup
 
+NOTE: This script requires Python 3!
+
 Clone this repository:
 
     git clone https://github.com/tjarrettveracode/veracode-static-bom
